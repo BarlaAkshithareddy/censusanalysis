@@ -1,3 +1,9 @@
+Social analysis
+Module: Social
+Schema:Age,citizenship
+Report:Estimating the people who are eligible for voting next specified years based on citizenship
+
+
 1.Education analysis
 
 Module:Education
@@ -33,7 +39,4 @@ Schema:Age,Qualification
 Report:providing job opportunities
 
 -------------
-Social analysis
-Module: Social
-Schema:Age,citizenship
-Report:Estimating the people who are eligible for voting next specified years based on citizenship
+
