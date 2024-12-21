@@ -1,0 +1,39 @@
+1.Education analysis
+
+Module:Education
+Schema(columns):Age,Highest qualification
+Report:finding literacy rate, providing scholarships
+
+
+2.Social Analysis-
+
+Module:Social
+Schema:Income,Marital Status,Gender
+Report:Individuals with children or lower incomes are more likely to need social welfare programs,eligibility for schemes
+
+
+3.Financial Analysis-
+
+Module:Financial
+Schema:citizenship,no of hours worked
+Report:provinding more opportunties for native citizens
+Schema:based on tax filling status,income
+Report:no of people paying tax
+Schema:Age
+Report:Retirement pensions
+
+
+4.Employment Analysis-
+
+Module:Employment
+Schema:Marital status,Qualification
+Report:Married individuals may work more weeks than unmarried individuals, possibly due to more stable household incomes.
+People with higher education are likely to work more weeks, indicating better employment stability
+Schema:Age,Qualification
+Report:providing job opportunities
+
+-------------
+Social analysis
+Module: Social
+Schema:Age,citizenship
+Report:Estimating the people who are eligible for voting next specified years based on citizenship
